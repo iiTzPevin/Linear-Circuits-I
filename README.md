@@ -24,8 +24,6 @@ Linear-Circuits-I/
 └── README.md
 ```
 
----
-
 ## Video Resources
 
 - [Full Course Lectures By Dr. Rahnavard](https://www.youtube.com/@dr.rahnavard/playlists)
@@ -33,13 +31,9 @@ Linear-Circuits-I/
 - [Exam #2 Lectures By Dr. Vosoughi](https://www.youtube.com/playlist?list=PLFxPswAqvk-g)
 - [Exam #3 Lectures By Dr. Vosoughi](https://www.youtube.com/playlist?list=PLF_Rpaqwy-1s)
 
----
-
 ## Helpful Websites
 
 - [Electrical & Computer Education](https://ecedu.org/lc-1)
-
----
 
 ## Credits
 
