@@ -10,17 +10,17 @@ Linear-Circuits-I/
 │   ├── Exam #3/
 │   └── Final Exam/
 └── Practice Quiz/
-    ├── Quiz #1 KVL, KCL, Ohm's Law/
+    ├── Quiz #1 KVL And KCL/
     ├── Quiz #2 Req/
     ├── Quiz #3 Superposition/
     ├── Quiz #4 Nodal Analysis/
     ├── Quiz #5 Mesh Analysis/
-    ├── Quiz #6 Thevenin, Norton, Max Power/
+    ├── Quiz #6 Thevenin, Norton, Max Power Transfer/
     ├── Quiz #7 Inductor And Capacitor/
     ├── Quiz #8 RL And RC/
     ├── Quiz #9 Phasor/
-    ├── Quiz #10 Sinusoidal Steady State/
-    └── Quiz #11 Complex Power/
+    ├── Quiz #10 Sinusoidal Steady-State Analysis/
+    └── Quiz #11 Complex Power Calculations/
 ```
 
 ## Video Resources
