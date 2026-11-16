@@ -36,6 +36,7 @@ Linear-Circuits-I/
 
 ## Credits
 
+- Lauren Caccamise
 - Matthew Giannacco
 - Minh Hoang Ho
 - Adrian James
