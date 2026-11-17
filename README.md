@@ -10,7 +10,7 @@ Linear-Circuits-I/
 │   ├── Exam #3/
 │   └── Final Exam/
 └── Practice Quiz/
-    ├── Quiz #1 KVL And KCL/
+    ├── Quiz #1 KVL, KCL, Ohm’s Law, DC Power Calculation/
     ├── Quiz #2 Req/
     ├── Quiz #3 Superposition/
     ├── Quiz #4 Nodal Analysis/
