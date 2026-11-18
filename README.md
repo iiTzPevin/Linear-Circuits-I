@@ -34,7 +34,7 @@ Linear-Circuits-I/
 
 - [Electrical & Computer Education](https://ecedu.org/lc-1)
 
-## Credits
+## Resource Contributors
 
 - Lauren Caccamise
 - Matthew Giannacco
