@@ -6,22 +6,22 @@ Linear-Circuits-I/
 ├── Formula Sheet + Notes/
 ├── Practice Exam/
 │   ├── Exam #1/
-│   │   ├── Q1 – KVL, KCL, Ohm’s Law, DC Power Calculation
-│   │   ├── Q2 – Circuit Reduction & R Equivalent
-│   │   └── Q3 – DC Circuit Analysis With Dependent Source
+│   │   ├── KVL, KCL, Ohm’s Law, DC Power Calculation
+│   │   ├── Circuit Reduction & R Equivalent
+│   │   └── DC Circuit Analysis With Dependent Source
 │   ├── Exam #2/
-│   │   ├── Q1 – Node Analysis (Matrix Formulation), DC Power
-│   │   ├── Q2 – Mesh Analysis, DC Power
-│   │   └── Q3 – Thevenin, Norton, Maximum Power Transfer
+│   │   ├── Node Analysis (Matrix Formulation), DC Power
+│   │   ├── Mesh Analysis, DC Power
+│   │   └── Thevenin, Norton, Maximum Power Transfer
 │   ├── Exam #3/
-│   │   ├── Q1 – Inductor And Capacitor
-│   │   ├── Q2 – RL And RC Circuits (Without Dependent Source)
-│   │   └── Q3 – RL And RC Circuits (With Dependent Source)
+│   │   ├── Inductor And Capacitor
+│   │   ├── RL And RC Circuits (Without Dependent Source)
+│   │   └── RL And RC Circuits (With Dependent Source)
 │   └── Final Exam/
-│       ├── Q1 – Phasor (Without Dependent Source)
-│       ├── Q2 – Sinusoidal Steady-State Analysis (Multiple Frequencies)
-│       ├── Q3 – Sinusoidal Steady-State Analysis (Max Avg Power Transfer, Dependent Sources)
-│       └── Q4 – Complex Power (Without Dependent Source)
+│       ├── Phasor (Without Dependent Source)
+│       ├── Sinusoidal Steady-State Analysis (Multiple Frequencies)
+│       ├── Sinusoidal Steady-State Analysis (Max Avg Power Transfer, Dependent Sources)
+│       └── Complex Power (Without Dependent Source)
 └── Practice Quiz/
     ├── Quiz #1 KVL, KCL, Ohm’s Law, DC Power Calculation/
     ├── Quiz #2 Req/
