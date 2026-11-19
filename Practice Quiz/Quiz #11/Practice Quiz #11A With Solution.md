@@ -1,0 +1,3 @@
+# Practice Quiz #11A With Solution
+
+[Walkthrough Video](https://ucf-my.sharepoint.com/:v:/g/personal/ho667674_ucf_edu/IQAdhgpMbyr9TK0uLmFZgR73ATE5xoygHtXk9-SUeoA-5hg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oLie85)
